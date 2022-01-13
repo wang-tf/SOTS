@@ -3,7 +3,7 @@
 
 We assume your path is $SOTS, e.g. `/home/zpzhang/SOTS`
 ### Set up environment
-
+need torch=1.6
 ```
 cd $SOTS/lib/tutorial/install
 bash install.sh $conda_path SOTS
